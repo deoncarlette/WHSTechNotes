@@ -67,7 +67,7 @@ I would write down all the players best attributes and assign each a player thei
 I learned about how to build a snow shelter.  This is interesting to me because the idea of building shelter out of nature is cool to me.
 # February 24, 2025 
 Technology, like translation apps and social media, helps people of different ages communicate better.  However, its important to remember that understanding culture is also kwy to good communication.
-# March, 5, 2025
+# March 5, 2025
 | Name     | Power | Challenge |
 | :------- | :-- | :------ |
 | Zara   |Telekenesis         |Secure Building
